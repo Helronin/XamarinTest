@@ -12,7 +12,8 @@ using Android.Widget;
 
 namespace Phoneword
 {
-    [Activity(Label = "Activity1123")]
+    [Activity(Label = "Activity1")]
+
     public class Activity1 : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
