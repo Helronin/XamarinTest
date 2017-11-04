@@ -12,12 +12,8 @@ using Android.Widget;
 
 namespace Phoneword
 {
-<<<<<<< HEAD
-    [Activity(Label = "Activity1")]
-
-=======
     [Activity(Label = "Activity112")]
->>>>>>> parent of ea30cce... c3
+
     public class Activity1 : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
