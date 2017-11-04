@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace Phoneword
 {
-    [Activity(Label = "Activity1")]
+    [Activity(Label = "Activity112")]
     public class Activity1 : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
